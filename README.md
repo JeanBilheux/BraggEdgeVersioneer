@@ -1,5 +1,5 @@
 [![GitHub version](https://badge.fury.io/gh/ornlneutronimaging%2FBraggEdge.svg)](https://badge.fury.io/gh/ornlneutronimaging%2FBraggEdge)
-[![Build Status](https://travis-ci.org/ornlneutronimagingVersioneer/BraggEdge.svg?branch=master)](https://travis-ci.org/ornlneutronimagingVersioneer/BraggEdge)
+[![Build Status](https://travis-ci.org/JeanBilheux/BraggEdgeVersioneer.svg?branch=master)](https://travis-ci.org/JeanBilheux/BraggEdgeVersioneer)
 [![codecov.io](https://codecov.io/github/ornlneutronimaging/BraggEdge/coverage.svg?branch=master)](https://codecov.io/github/ornlneutronimaging/BraggEdge?branch=master)
 [![Join the chat at https://gitter.im/ornlneutronimaging](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ornlneutronimaging?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
